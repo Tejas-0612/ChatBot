@@ -1,0 +1,180 @@
+{
+  "child_msg": [
+    "C language?",
+    "JAVA language?",
+    "python"
+  ],
+  "children": [
+    {
+      "child_msg": [
+        "What is C Language?",
+        "Who developed C language?",
+        "What are the basic data types associated with C?",
+        "What is a built-in function in C?",
+        "What are the features of the C language?",
+        "What is the use of printf() and scanf() functions?",
+        "What is the use of a static variable in C?",
+        "What is the use of the function in C?",
+        "What is recursion in C?",
+        "What is an array in C?"
+      ],
+      "children": [
+        {
+          "message": "C is a high-level and general-purpose programming language. ",
+          "type": "normal"
+        },
+        {
+          "message": "'C' programming language developed in the early 1970s by American computer scientist Dennis M. Ritchie at Bell Laboratories (formerly AT&T Bell Laboratories). ",
+          "type": "normal"
+        },
+        {
+          "message": "Int, Float, Double,Char,void ",
+          "type": "normal"
+        },
+        {
+          "message": "Built-function is also known as library functions that are provided by the system to make the life of a developer easy by assisting them to do certain commonly used predefined tasks. For example sacnf(), printf(), strcpy, strlwr, strcmp, strlen, strcat, and many more. ",
+          "type": "normal"
+        },
+        {
+          "message": "It is Simple And Efficient.C is a mid-level Programming Language.It is a structured Programming Language.It has a function-rich library.Dynamic Memory Management.C is super fast.We can use pointers in C.It is extensible  ",
+          "type": "normal"
+        },
+        {
+          "message": "printf(): The printf() function is used to print the integer, character, float and string values on to the screen.scanf(). The scanf(): function is used to take input from the user.",
+          "type": "normal"
+        },
+        {
+          "message": "A variable which is declared as static is known as a static variable. The static variable retains its value between multiple function calls.Static variables are used because the scope of the static variable is available in the entire program. So, we can access a static variable anywhere in the program.The static variable is initially initialized to zero. If we update the value of a variable, then the updated value is assigned. ",
+          "type": "normal"
+        },
+        {
+          "message": "C functions are used to avoid the rewriting the same code again and again in our program.C functions can be called any number of times from any place of our program.When a program is divided into functions, then any part of our program can easily be tracked.C functions provide the reusability concept,",
+          "type": "normal"
+        },
+        {
+          "message": "When a function calls itself, and this process is known as recursion. The function that calls itself is known as a recursive function. ",
+          "type": "normal"
+        },
+        {
+          "message": "An Array is a group of similar types of elements. It has a contiguous memory location. It makes the code optimized, easy to traverse and easy to sort. The size and type of arrays cannot be changed after its declaration. ",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "child_msg": [
+        "What is JAVA?",
+        "What are the features of JAVA?",
+        "How does Java enable high performance?",
+        "Why is Java not a pure object oriented language?",
+        "What do you understand by Java virtual machine?",
+        "What is JIT compiler?",
+        "What are the advantages of Packages in Java?",
+        "How is Java different from C++?",
+        "Why Java is platform independent?",
+        "What are access modifiers in Java?"
+      ],
+      "children": [
+        {
+          "message": "Java is a high-level programming language and is platform-independent.Java is a collection of objects. It was developed by Sun Microsystems. There are a lot of applications, websites, and games that are developed using Java",
+          "type": "normal"
+        },
+        {
+          "message": "Features of Java are OOP concepts,Object-oriented,Inheritance,Encapsulation,Polymorphism,Abstraction,Platform independent.",
+          "type": "normal"
+        },
+        {
+          "message": "Java uses Just In Time compiler to enable high performance. It is used to convert the instructions into bytecodes.",
+          "type": "normal"
+        },
+        {
+          "message": "Java supports primitive data types - byte, boolean, char, short, int, float, long, and double and hence it is not a pure object oriented language",
+          "type": "normal"
+        },
+        {
+          "message": "Java Virtual Machine is a virtual machine that enables the computer to run the Java program. JVM acts like a run-time engine which calls the main method present in the Java code. JVM is the specification which must be implemented in the computer system. The Java code is compiled by JVM to be a Bytecode which is machine independent and close to the native code.",
+          "type": "normal"
+        },
+        {
+          "message": "Just-In-Time(JIT) compiler: It is used to improve the performance. JIT compiles parts of the bytecode that have similar functionality at the same time, and hence reduces the amount of time needed for compilation. Here the term “compiler” refers to a translator from the instruction set of a Java virtual machine (JVM) to the instruction set of a specific CPU.",
+          "type": "normal"
+        },
+        {
+          "message": "There are various advantages of defining packages in Java.Packages avoid the name clashes.The Package provides easier access control.We can also have the hidden classes that are not visible outside and used by the package.It is easier to locate the related classes.",
+          "type": "normal"
+        },
+        {
+          "message": "C++ is only a  compiled language, whereas Java is compiled as well as an interpreted language.Java programs are machine-independent whereas a c++ program can run only in the machine in which it is compiled. ",
+          "type": "normal"
+        },
+        {
+          "message": "Java is called platform independent because of its byte codes which can run on any system irrespective of its underlying operating system.",
+          "type": "normal"
+        },
+        {
+          "message": "In Java, access modifiers are special keywords which are used to restrict the access of a class, constructor, data member and method in another class. Java supports four types of access modifiers are Default,Private,Protected,Public",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "child_msg": [
+        " What is Python?",
+        "What are the benefits of using Python",
+        "What is an Interpreted language?",
+        " What is PEP 8 and why is it important?",
+        "What is pass in Python?",
+        "What is the use of self in Python?",
+        " What is docstring in Python?",
+        " What is the difference between .py and .pyc files?",
+        "Explain how to delete a file in Python?",
+        "Is it possible to call parent class without its instance creation?"
+      ],
+      "children": [
+        {
+          "message": "Python is a high-level, interpreted, general-purpose programming language. Being a general-purpose language, it can be used to build almost any type of application with the right tools/libraries. Additionally, python supports objects, modules, threads, exception-handling, and automatic memory management which help in modelling real-world problems and building applications to solve these problems.",
+          "type": "normal"
+        },
+        {
+          "message": "Benefits of using Python:Python is a general-purpose programming language that has a simple, easy-to-learn syntax that emphasizes readability and therefore reduces the cost of program maintenance. Moreover, the language is capable of scripting, is completely open-source, and supports third-party packages encouraging modularity and code reuse.Its high-level data structures, combined with dynamic typing and dynamic binding, attract a huge community of developers for Rapid Application Development and deployment",
+          "type": "normal"
+        },
+        {
+          "message": "An Interpreted language executes its statements line by line. Languages such as Python, Javascript, R, PHP, and Ruby are prime examples of Interpreted languages. Programs written in an interpreted language runs directly from the source code, with no intermediary compilation step.",
+          "type": "normal"
+        },
+        {
+          "message": "PEP stands for Python Enhancement Proposal. A PEP is an official design document providing information to the Python community, or describing a new feature for Python or its processes. PEP 8 is especially important since it documents the style guidelines for Python Code. Apparently contributing to the Python open-source community requires you to follow these style guidelines sincerely and strictly.",
+          "type": "normal"
+        },
+        {
+          "message": "The pass keyword represents a null operation in Python. It is generally used for the purpose of filling up empty blocks of code which may execute during runtime but has yet to be written. Without the pass statement in the following code, we may run into some errors during code execution.",
+          "type": "normal"
+        },
+        {
+          "message": "Self is used to represent the instance of the class. With this keyword, you can access the attributes and methods of the class in python. It binds the attributes with the given arguments. self is used in different places and often thought to be a keyword. But unlike in C++, self is not a keyword in Python.",
+          "type": "normal"
+        },
+        {
+          "message": "Documentation string or docstring is a multiline string used to document a specific code segment.The docstring should describe what the function or method does.",
+          "type": "normal"
+        },
+        {
+          "message": ".py files contain the source code of a program. Whereas, .pyc file contains the bytecode of your program. We get bytecode after compilation of .py file (source code). .pyc files are not created for all the files that you run. It is only created for the files that you import.Before executing a python program python interpreter checks for the compiled files. If the file is present, the virtual machine executes it. If not found, it checks for .py file. If found, compiles it to .pyc file and then python virtual machine executes it.",
+          "type": "normal"
+        },
+        {
+          "message": "Use command os.remove(file_name)",
+          "type": "normal"
+        },
+        {
+          "message": "Yes, it is possible if the base class is instantiated by other child classes or if the base class is a static method.",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "message": "You're amazing and everything you do will make a positive effect on the world"
+    }
+  ]
+}

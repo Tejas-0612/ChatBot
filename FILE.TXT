@@ -1,0 +1,37 @@
+{
+    "child_msg" : ["What is C Language?","Who developed C language?","What are the basic data types associated with C?","What is a built-in function in C?","What are the features of the C language?","What is the use of printf() and scanf() functions?","What is the use of a static variable in C?","What is the use of the function in C?","What is recursion in C?","What is an array in C?"],
+    "children" : [
+      {
+        "child_msg" : [" C is a high-level and general-purpose programming language. [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : [" 'C' programming language developed in the early 1970s by American computer scientist Dennis M. Ritchie at Bell Laboratories (formerly AT&T Bell Laboratories). [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : [" Int, Float, Double,Char,void [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["Built-function is also known as library functions that are provided by the system to make the life of a developer easy by assisting them to do certain commonly used predefined tasks. For example sacnf(), printf(), strcpy, strlwr, strcmp, strlen, strcat, and many more. [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["It is Simple And Efficient.C is a mid-level Programming Language.It is a structured Programming Language.It has a function-rich library.Dynamic Memory Management.C is super fast.We can use pointers in C.It is extensible  [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["printf(): The printf() function is used to print the integer, character, float and string values on to the screen.scanf(). The scanf(): function is used to take input from the user. [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["A variable which is declared as static is known as a static variable. The static variable retains its value between multiple function calls.Static variables are used because the scope of the static variable is available in the entire program. So, we can access a static variable anywhere in the program.The static variable is initially initialized to zero. If we update the value of a variable, then the updated value is assigned. [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["C functions are used to avoid the rewriting the same code again and again in our program.C functions can be called any number of times from any place of our program.When a program is divided into functions, then any part of our program can easily be tracked.C functions provide the reusability concept, [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["When a function calls itself, and this process is known as recursion. The function that calls itself is known as a recursive function. [press F5 to Reset]" ]
+      },
+      {
+        "child_msg" : ["An Array is a group of similar types of elements. It has a contiguous memory location. It makes the code optimized, easy to traverse and easy to sort. The size and type of arrays cannot be changed after its declaration. [press F5 to Reset]" ]
+      }
+
+      
+    ]
+  }
